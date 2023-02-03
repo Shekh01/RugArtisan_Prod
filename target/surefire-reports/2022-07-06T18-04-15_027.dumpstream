@@ -1,0 +1,4 @@
+# Created at 2022-07-06T18:04:16.486
+Boot Manifest-JAR contains absolute paths in classpath 'D:\All Project\RugArtisan_co_uk_TestNG_Framework_Jenkins_Schedule_Automation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
